@@ -13,6 +13,8 @@ Mantee Name : Dosapati Jayanth.
 Week 1: 
 
 We are given an assignment to replicate internet.iitb.ac.in.(check point 1).
+
+
 Link is given below:
 
 
@@ -24,6 +26,8 @@ Week 2:
 We are given 2nd assignment to make the website of assignment 1 responsive using Java Script.
 We are asked to implement a toggle switch to toggle between Light and Dark modes.
 Also we are also told to allow log in only to certain LDAP-ID that is only for 200000000 to 202000000 Id’s.
+
+
   Link is given below:
   
   
